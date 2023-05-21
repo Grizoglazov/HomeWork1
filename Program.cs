@@ -27,7 +27,7 @@ string input_2 = Console.ReadLine();
 int number_2 = Convert.ToInt32(input_2);
 if (number_1 > number_2)
     {
-        Console.WriteLine("Число "+ number_1 + "больше " + number_2);
+        Console.WriteLine("Число "+ number_1 + " больше чем " + number_2);
     }
 else 
-    Console.WriteLine("Число " + number_2 + "больше " + number_1);
+    Console.WriteLine("Число " + number_2 + " больше чем " + number_1);
