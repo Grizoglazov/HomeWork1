@@ -6,4 +6,8 @@ Console.WriteLine ("Четные числа!!");
 Console.WriteLine ("Введите число:");
 string input = Console.ReadLine();
 int number = Convert.ToInt32(input);
-while ()
+number %= 2;
+while (number >0)
+    {
+        
+    }
