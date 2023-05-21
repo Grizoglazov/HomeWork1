@@ -20,11 +20,11 @@
 
 Console.Write ("Давайте сравним числа!!");
 Console.WriteLine ("Введите первое число");
-input_1 = Console.ReadLine();
-number_1 = Convert.ToInt32(input_1);
+string input_1 = Console.ReadLine();
+int number_1 = Convert.ToInt32(input_1);
 Console.WriteLine ("Введите второе число");
-input_2 = Console.ReadLine();
-number_2 = Convert.ToInt32(input_2);
+string input_2 = Console.ReadLine();
+int number_2 = Convert.ToInt32(input_2);
 if (number_1 > number_2)
     {
         Console.WriteLine(number_1);
