@@ -18,16 +18,16 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.Write ("Давайте сравним числа!!");
-Console.WriteLine ("Введите первое число");
+Console.WriteLine ("Давайте сравним числа!!");
+Console.WriteLine ("Введите первое число:");
 string input_1 = Console.ReadLine();
 int number_1 = Convert.ToInt32(input_1);
-Console.WriteLine ("Введите второе число");
+Console.WriteLine ("Введите второе число:");
 string input_2 = Console.ReadLine();
 int number_2 = Convert.ToInt32(input_2);
 if (number_1 > number_2)
     {
-        Console.WriteLine(number_1);
+        Console.WriteLine("Число "+ number_1 + "больше " + number_2);
     }
 else 
-    Console.WriteLine(number_2);
+    Console.WriteLine("Число " + number_2 + "больше " + number_1);
