@@ -4,7 +4,7 @@
 // 22 3 9 -> 22
 
 Console.WriteLine("Давай найдем максимальное число!");
-Console.WriteLine("Введите последовательно три числа");
+Console.WriteLine("Введите три числа");
 string input_1 = Console.ReadLine();
 int number_1 = Convert.ToInt32(input_1);
 string input_2 = Console.ReadLine();
