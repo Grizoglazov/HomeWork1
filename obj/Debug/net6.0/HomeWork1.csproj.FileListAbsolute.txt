@@ -1,0 +1,5 @@
+G:\GB\Урок 1. Знакомство с языком программирования C# (Семинар)\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.AssemblyReference.cache
+G:\GB\Урок 1. Знакомство с языком программирования C# (Семинар)\HomeWork1\obj\Debug\net6.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Урок 1. Знакомство с языком программирования C# (Семинар)\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfoInputs.cache
+G:\GB\Урок 1. Знакомство с языком программирования C# (Семинар)\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfo.cs
+G:\GB\Урок 1. Знакомство с языком программирования C# (Семинар)\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.CoreCompileInputs.cache
