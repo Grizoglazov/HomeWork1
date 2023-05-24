@@ -14,7 +14,7 @@ while (count < max)
         result ++;
         if (balance == 0)
         {
-            Console.Write(result + " ,");
+            Console.Write(result + ", ");
             min ++;           
         }
         else
