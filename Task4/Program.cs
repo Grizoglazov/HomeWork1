@@ -19,6 +19,6 @@ while (count < max)                         // условие для выпол�
         }
         else
         min ++;  
-    count ++;
+    count ++;                               // счетчик для повторений 
 }
-Console.WriteLine("End");
+Console.WriteLine("End");                   // выход из программы 
